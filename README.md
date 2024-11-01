@@ -24,4 +24,4 @@ function draw() {
     }
    
 }
-
+jogo do pong © 2024 por dienifer está licenciado sob CC BY 4.0
